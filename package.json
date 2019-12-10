@@ -1,0 +1,19 @@
+{
+  "name": "update-changelog-package",
+  "version": "1.0.0",
+  "description": "Update [Unreleased] in CHANGELOG.md to current package version and add a new one unreleased section at the top",
+  "bin": {
+    "update-changelog": "bin/update-changelog.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "UnityBase",
+    "CHANGELOG",
+    "keepachangelog"
+  ],
+  "author": "Volodymyr Mazur",
+  "license": "ISC",
+  "repository": "https://github.com/Vovamzur/update-cl-package"
+}
